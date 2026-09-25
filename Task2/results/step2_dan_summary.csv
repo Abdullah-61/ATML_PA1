@@ -1,0 +1,5 @@
+Method,Domain,Split,Accuracy (%),Macro-F1 (%)
+DAN,Photo (Val),Source Val,97.01,96.59
+DAN,Art_painting (Val),Source Val,92.20,92.08
+DAN,Cartoon (Val),Source Val,94.46,94.95
+DAN,Sketch (Target),Target Final,77.27,73.05

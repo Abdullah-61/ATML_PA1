@@ -1,0 +1,4 @@
+Case Type,Shape (Content),Texture (Style),ResNet-50 Pred,ViT-B/16 Pred,CLIP Probe Pred,Zero-Shot CLIP Pred
+Shape Agreement,cat,truck,cat,cat,cat,cat
+Shape vs. Texture Disagreement,airplane,bird,bird,airplane,airplane,airplane
+Failure / Confusion (Other),cat,truck,ship,ship,truck,bird

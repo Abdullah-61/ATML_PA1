@@ -1,0 +1,5 @@
+Method,Domain,Split,Accuracy (%),Macro-F1 (%)
+CDAN,Photo (Val),Source Val,93.71,92.56
+CDAN,Art_painting (Val),Source Val,87.32,87.07
+CDAN,Cartoon (Val),Source Val,87.85,89.10
+CDAN,Sketch (Target),Target Final,34.74,36.27

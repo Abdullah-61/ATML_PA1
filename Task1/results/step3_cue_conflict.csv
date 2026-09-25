@@ -1,0 +1,5 @@
+Model,N_shape,N_texture,N_other,N_total,Shape Bias (%),Coverage (%)
+RESNET50 Linear Probe,61,57,132,250,51.69,47.20
+VIT_B16 Linear Probe,101,36,113,250,73.72,54.80
+CLIP Linear Probe,138,21,91,250,86.79,63.60
+OpenCLIP ViT-B/32 Zero-Shot,115,23,112,250,83.33,55.20

@@ -1,0 +1,4 @@
+lambda_MMD,Source Val Macro-F1 (%),Domain Separability (%),Target Acc (%),Target Macro-F1 (%),Δ Target Acc vs ERM (%)
+0.1,94.07,96.57,70.81,68.76,-4.15
+1.0,94.54,87.91,77.27,73.05,2.31
+10.0,91.24,78.3,72.46,65.66,-2.5

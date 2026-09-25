@@ -1,0 +1,5 @@
+Method,Source Val Macro-F1 (%),Target Acc (%),Target Macro-F1 (%),Δ Target Acc (%),Domain Separability (%)
+Source-Only,94.07,74.96,76.97,0.0,99.59
+DAN,94.54,77.27,73.05,2.32,87.91
+DANN,7.67,18.61,6.17,-56.35,58.65
+CDAN,89.58,34.74,36.27,-40.21,99.73

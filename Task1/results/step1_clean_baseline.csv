@@ -1,0 +1,5 @@
+Model,Top-1 Accuracy (%),Macro-F1 (%),Mean Max Confidence (%)
+RESNET50 Linear Probe,97.60,97.60,96.90
+VIT_B16 Linear Probe,97.00,97.01,97.47
+CLIP Linear Probe,97.20,97.19,53.44
+OpenCLIP ViT-B/32 Zero-Shot,75.80,72.85,88.55

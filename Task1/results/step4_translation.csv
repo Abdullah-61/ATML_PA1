@@ -1,0 +1,17 @@
+Model,Displacement (delta),Mean Accuracy (%),Mean Consistency (%)
+RESNET50 Linear Probe,0,97.6,100.0
+VIT_B16 Linear Probe,0,97.0,100.0
+CLIP Linear Probe,0,97.2,100.0
+OpenCLIP ViT-B/32 Zero-Shot,0,75.8,100.0
+RESNET50 Linear Probe,8,96.95,98.6
+VIT_B16 Linear Probe,8,96.4,98.3
+CLIP Linear Probe,8,97.1,97.3
+OpenCLIP ViT-B/32 Zero-Shot,8,76.75,95.5
+RESNET50 Linear Probe,16,96.65,98.55
+VIT_B16 Linear Probe,16,96.4,98.55
+CLIP Linear Probe,16,96.4,96.45
+OpenCLIP ViT-B/32 Zero-Shot,16,76.35,94.55
+RESNET50 Linear Probe,32,95.9,97.8
+VIT_B16 Linear Probe,32,95.9,97.9
+CLIP Linear Probe,32,95.75,96.45
+OpenCLIP ViT-B/32 Zero-Shot,32,75.4,94.9

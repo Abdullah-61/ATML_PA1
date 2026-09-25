@@ -1,0 +1,13 @@
+Intervention,Backbone,Cosine Stability (I_T)
+Grayscale,RESNET50,0.7885
+Grayscale,VIT_B16,0.7369
+Grayscale,CLIP,0.8962
+Translation (32px),RESNET50,0.9755
+Translation (32px),VIT_B16,0.9793
+Translation (32px),CLIP,0.9858
+Patch Shuffle (4x4),RESNET50,0.7193
+Patch Shuffle (4x4),VIT_B16,0.6539
+Patch Shuffle (4x4),CLIP,0.7332
+Cue Conflict,RESNET50,0.2114
+Cue Conflict,VIT_B16,0.1154
+Cue Conflict,CLIP,0.6531
